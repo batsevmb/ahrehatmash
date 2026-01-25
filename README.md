@@ -16,3 +16,6 @@ or
 Notes:
 - No external libraries (fast load, works offline).
 - Mobile menu + accordion are implemented in `script.js`.
+
+
+Update: switched to a lighter theme and fixed broken links in contacts.
